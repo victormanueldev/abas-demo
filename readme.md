@@ -19,7 +19,7 @@ la fidelización de clientes.
 - Ejecutar el comando de clonación del repositorio de código en CMD o Simbolo del Sistema
 
 ```
-$ git clone https://repo.git
+$ git clone https://github.com/victormanueldev/abas-demo.git
 ```
 
 ### 3. Instalar las dependencias de la aplicación
